@@ -19,7 +19,7 @@
     "require": {
         "php": "^8.1",
         "illuminate/support": "^8|^9|^10",
-        "guzzlehttp/guzzle": "^7.7",
+        "guzzlehttp/guzzle": "^7.5",
         "shureban/laravel-object-mapper": "^1.1",
         "myclabs/php-enum": "^1.8"
     },
